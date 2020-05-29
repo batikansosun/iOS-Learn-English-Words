@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## İnglizce Kelime Öğrenme
 
-You can use the [editor on GitHub](https://github.com/batikansosun/iOS-Learn-English-Words/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+İngilizce kelime öğrenmek ve kalıcı hale getirmek artık kolay. En çok kullanılan kelimeleri uygulamamız ile ücretsiz sunuyoruz. Barındırdığı binlerce kelime ile YDS / TOEFL / KPDS sınavlarına rahatça hazırlanabilirsiniz.
 
-### Markdown
+Yepyeni arayüzü ile karşınızdayız. İngilizce Kelime Öğrenme uygulamamız ile kolayca en çok kullanılan kelimleri öğrenebilirsiniz. Kullanıcı dostu arayüzü ile rahat ve erişilebilir bir öğrenme ortamı sunuyoruz. Uygulamamızda yer alan kelimeleri güncelik hayatta en çok kullanılan kelimelerden setler oluşturarak size sunuyoruz. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Uygulamamız 4 farklı öğrenme ve öğrenmeyi pekiştirme modülünden oluşmaktadır.
 
-```markdown
-Syntax highlighted code block
+ - Kelime Öğrenme
+ - Tekrar Et
+ - Test Et
+ - Eşleştir
+ 
+ Yukarıdaki öğrenme modüllerinin her birinde temel amacımız daha iyi arayüz deneyimi ile kullanıcıya öğrenmeyi kolaylaştırmak ve öğrendiklerini pekiştirmektir. 
 
-# Header 1
-## Header 2
-### Header 3
+### Kelime Öğrenme
+Kelime öğrenmeyi kalıcı hale getirmek için örnek kelimenin Türkçe okunuşu, İngilizce seslendirmesi, Türkçe karşılığı ile birlikte kelimeyi aynı zamanda bir örnek Türkçe cümle ve aynı cümle ile çevirisi yapılmış İngilizce örnek sunuyoruz.
 
-- Bulleted
-- List
+### Tekrar Et
+Kelime öğren modülünde öğrediğiniz kelimeleri tekrar ederek kalıcı olmasını sağlayabilirsiniz. Bunun için Tekrar Et modülü ile daha önce öğrediğiniz kelimeleri anlaşılabilir arayüz ile sunumunu yapıyoruz.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Test Et
+Beynin doğası gereği ilk defa öğrendiğiniz kelimeleri pekiştirmez iseniz kısa zamanda unutuyor olursunuz. Öğrediklerinizi ne kadar hatırlıyor ve ne kadarını doğru biliyorsunuz? Bildiklerinizi test etmeniz için Test Modülü' nü geliştirdik. Doğru ve yanlış şıklar sunarak seçimler yapmanızı sağlıyoruz her bir seçimden sonra seçimin doğru veya yanlış oldğuna dair sesli ve titreşimli geribildirim veriyoruz. Bu sayede eğer yanlış cevap verdiyseniz daha sonra aynı soruyla karşılaştığınızda doğru cevabı hatırlamanıza yardımcı olur.
 
-[Link](url) and ![Image](src)
-```
+### Eşletir
+Öğrendiğiniz İngilizce kelimeleri Test Et modülünden daha farklı bir arayüz ve oyunlaştırma ile size sunuyoruz. Buradaki temel amacımız İngilizce ve Türkçe çevirileri verilmiş kelimeleri doğru eşleştirmeniz ve eşleştirirken hata yapma oranınızı azaltmaktır.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### İletişim
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/batikansosun/iOS-Learn-English-Words/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+njoyapplications@gmail.com
